@@ -1,0 +1,6 @@
+pycache/
+.pyc
+hasil_.jpg
+*.png
+*.jpeg
+.env
